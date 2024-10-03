@@ -11,7 +11,7 @@ struct ColorClassicStruct {
     // TODO: Something goes here
 }
 
-struct ColorTupleStruct(/* TODO: Something goes here */);
+struct ColorTupleStruct(/* TODO: aaaSomething goes here */);
 
 #[derive(Debug)]
 struct UnitLikeStruct;
